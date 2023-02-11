@@ -1,0 +1,5 @@
+name: CustomCraft
+main: nissining.customcraft.CustomCraft
+api: [1.0.0]
+version: 1
+author: Nissining
