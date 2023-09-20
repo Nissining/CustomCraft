@@ -10,7 +10,6 @@ Minecraft Version
 
 
 Nukkit Version
-* NukkitX
 * NukkitPM1E
 * PowerNukkitX
-* NukkitX-NoMovementCheck
+* Nukkit-MOT
